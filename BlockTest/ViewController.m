@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //12345678
     self.Block = ^(NSString *str) {
         NSLog(@"%@",str);
     };
